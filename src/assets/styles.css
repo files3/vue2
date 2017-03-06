@@ -1,0 +1,21 @@
+
+/*=========共用*/
+
+/*loading*/
+.loading-box-footer{
+  margin:15px auto;
+  text-align:center;
+}
+.loading-box-footer div{
+  margin:auto;
+}
+.loading-box{
+    position: absolute;
+    z-index: 99;
+    width:100%;
+    margin:15px auto;
+    text-align:center;
+}
+.loading-box div{
+    margin: auto
+}
